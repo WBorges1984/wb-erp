@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Borges ERP</h1>
+      <h1 className='bg-#fff'>Borges ERP</h1>
     </>
   )
 }
